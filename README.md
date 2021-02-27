@@ -6,6 +6,10 @@ This project is for introducing React-Redux
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install dependency for this project
+
 ### `npm start`
 
 Runs the app in the development mode.\
